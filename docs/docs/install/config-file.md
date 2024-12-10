@@ -173,7 +173,8 @@ The default configuration looks like this:
   },
   "server": {
     "externalDomain": "",
-    "loginPageMessage": ""
+    "loginPageMessage": "",
+    "publicUsers": true
   },
   "notifications": {
     "smtp": {
